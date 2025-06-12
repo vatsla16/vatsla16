@@ -2,7 +2,7 @@
 
 I am a **Full-stack Developer**, and I am expanding my knowledge in both back-end and front-end development. I have experience as a web developer for the public and private sectors, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and funny.
 
-**📚 I'm currently learning** 
+### 📚 I'm currently learning
 <div display="flex">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
@@ -10,7 +10,7 @@ I am a **Full-stack Developer**, and I am expanding my knowledge in both back-en
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </div>
 
-**I love working with**
+### I love working with
 
 <div display="flex">
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React"/>
@@ -48,7 +48,6 @@ I'm definitely a cat person.
 I'm learning French and Korean. 
 Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love making art.
 
-<!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
