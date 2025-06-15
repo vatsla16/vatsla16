@@ -27,8 +27,6 @@ I love to learn and build something new, creative and funny.\
     <td>WCAG</td>
   </tr>
 </table>
-
-<br/>**Reach Me At 📫**\
-[Linkedin](https://www.linkedin.com/in/vatslachauhan/) | [Gmail](vatslachauhan@gmail.com) | Portfolio Coming Soon  <br/><br/>
+<br/>
 
 >_⚡ Outside of Tech: 🐱 🎮 🎵 🎨 🚀_
