@@ -2,11 +2,11 @@
 
 I am a **Full-stack Developer**.\
 I love to learn and build something new, creative and funny.\
-**My Goal:** Expand my knowledge in both back-end and front-end development.
+**My Goal:** Expand my knowledge in both back-end and front-end development.<br/><br/>
 
-> **📚 I'm currently learning:** Amazon AWS, Google Cloud, React Native, Django
+> **📚 I'm currently learning:** Amazon AWS, React Native, Django
 
-**I love working with**
+<br/>**I love working with**
 <table>
   <tr>
     <td>React</td>
@@ -28,7 +28,7 @@ I love to learn and build something new, creative and funny.\
   </tr>
 </table>
 
-**📫 How to reach me**\
-[Linkedin](https://www.linkedin.com/in/vatslachauhan/) | [Gmail](vatslachauhan@gmail.com) | Portfolio Coming Soon  
+<br/>**Reach Me At 📫**\
+[Linkedin](https://www.linkedin.com/in/vatslachauhan/) | [Gmail](vatslachauhan@gmail.com) | Portfolio Coming Soon  <br/><br/>
 
->_⚡ Fun fact: 🐱 🎮 🎵 🎨 🚀_
+>_⚡ Outside of Tech: 🐱 🎮 🎵 🎨 🚀_
