@@ -4,19 +4,19 @@ I am a **Full-stack Developer**.\
 I love to learn and build something new, creative and funny.\
 **My Goal:** Expand my knowledge in both back-end and front-end development.<br/><br/>
 
-> **📚 I'm currently learning:** Amazon AWS, React Native, Django
+> **📚 I'm currently learning:** Amazon AWS, Django, Java
 
 <br/>**I love working with**
 <table>
   <tr>
     <td>React</td>
+    <td>Python</td>
     <td>Javascript</td>
     <td>Typescript</td>
-    <td>EmberJS</td>
   </tr>
   <tr>
+    <td>Ember.JS</td>
     <td>SASS / LESS / CSS</td>
-    <td>Python</td>
     <td>PHP</td>
     <td>Bootstrap</td>
   </tr>
