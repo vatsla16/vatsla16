@@ -1,8 +1,8 @@
 ## Hi there, I'm <a href="https://github.com/vatsla16">Vatsla</a> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>
 
-I am a **Full-stack Developer**.\
-I love to learn and build something new, creative and funny.\
-**My Goal:** Expand my knowledge in both back-end and front-end development.<br/><br/>
+I am a **Software Engineer**.\
+I love to learn and build intuitive, high-performance applications.\
+I want to solve complex problems and contribute to large-scale products.<br/><br/>
 
 > **📚 I'm currently learning:** Amazon AWS, Django, Java
 
