@@ -4,7 +4,7 @@ I am a **Software Engineer**.\
 I love to learn and build intuitive, high-performance applications.\
 I want to solve complex problems and contribute to large-scale products.<br/><br/>
 
-> **📚 I'm currently learning:** Amazon AWS, Django, Java
+> **📚 I'm currently learning:** Amazon AWS, Django
 
 <br/>**I love working with**
 <table>
